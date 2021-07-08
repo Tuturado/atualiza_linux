@@ -1,4 +1,4 @@
-### Script Simples criado para atualizar o Linux :computer:
+## Script Simples criado para atualizar o Linux :computer:
 Criado para atualização do linux de maneira mais rápida, pode ser adicionado ao iniciar o sistema.
 
 
