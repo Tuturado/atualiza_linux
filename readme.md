@@ -20,6 +20,6 @@ Pronto, agora todas as vezes que seu sistema linux iniciar ele automáticamente 
 ---
 
 <a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://media-exp3.licdn.com/dms/image/C5603AQF8F08-UivRnQ/profile-displayphoto-shrink_800_800/0/1622665395129?e=1630540800&v=beta&t=YhLwFoGFqoD-MZ1hWuEpGU22tZ6Xb2KlUR-w7Ri_pX4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQHQhVF1DcK4BQ/profile-displayphoto-shrink_800_800/0/1626360406690?e=1638403200&v=beta&t=iiWyAVEA37996CkECQNCHu5EkMAqNUS0yDqSoe9mZDA" width="100px;" alt=""/>
  <br />
  <sub><b>Alef de Paula</b></sub></a> <a href="https://www.linkedin.com/in/alef-paula-aa98041ba/ title="LinkedIn">:desktop_computer:</a>
